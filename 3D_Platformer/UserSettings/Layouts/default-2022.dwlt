@@ -361,7 +361,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Physics Platformer Kit/Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -369,16 +369,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Physics Platformer Kit/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/violetli/Downloads/3D_Platformer
+  m_LastProjectPath: /Users/violetli/Documents/GitHub/PlatformerLevel/3D_Platformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 63.799988}
-    m_SelectedIDs: 085f0000
-    m_LastClickedID: 24328
-    m_ExpandedIDs: 00000000a65e0000a85e0000d45e000000ca9a3bffffff7f
+    m_SelectedIDs: 66590000
+    m_LastClickedID: 22886
+    m_ExpandedIDs: 00000000645900006659000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +406,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a65e0000a85e0000
+    m_ExpandedIDs: 000000006459000066590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,10 +547,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 80}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 1c79ffff4484ffff8aa1ffff26a2ffff74eeffffb8f3ffff32f5ffff28fbffff
+      m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -905,9 +905,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 24.188536, y: 15.5053, z: -20.015545}
+    m_Target: {x: -25.331322, y: 43.010845, z: -35.28198}
     speed: 2
-    m_Value: {x: 24.188536, y: 15.5053, z: -20.015545}
+    m_Value: {x: -25.331322, y: 43.010845, z: -35.28198}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 2
@@ -953,13 +953,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.21019463, y: 0.26176083, z: -0.058339257, w: 0.9402152}
+    m_Target: {x: 0.19437897, y: 0.57646036, z: -0.1433124, w: 0.7806918}
     speed: 2
-    m_Value: {x: 0.21018323, y: 0.26174664, z: -0.058336094, w: 0.94016415}
+    m_Value: {x: 0.1943685, y: 0.5764293, z: -0.14330468, w: 0.7806497}
   m_Size:
-    m_Target: 0.0032599105
+    m_Target: 0.01940585
     speed: 2
-    m_Value: 0.0033599106
+    m_Value: 0.01930585
   m_Ortho:
     m_Target: 0
     speed: 2
