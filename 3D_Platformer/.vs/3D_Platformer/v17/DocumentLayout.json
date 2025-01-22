@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\3DP\\3D_Platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D39BE-C7D7-1365-4912-E5A787BFA8FC}|Assembly-CSharp.csproj|c:\\projects\\3dp\\3d_platformer\\assets\\physics platformer kit\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D39BE-C7D7-1365-4912-E5A787BFA8FC}|Assembly-CSharp.csproj|solutionrelative:assets\\physics platformer kit\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Projects\\3DP\\3D_Platformer\\Assets\\Physics Platformer Kit\\Scripts\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Physics Platformer Kit\\Scripts\\Goal.cs",
+              "ToolTip": "C:\\Projects\\3DP\\3D_Platformer\\Assets\\Physics Platformer Kit\\Scripts\\Goal.cs",
+              "RelativeToolTip": "Assets\\Physics Platformer Kit\\Scripts\\Goal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:44:18.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
